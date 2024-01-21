@@ -5,7 +5,7 @@ Tiene elementos de parkour, retos mentales con puzzles y elementos tácticos com
 
 ## Instalación y uso
 Todo el contenido del proyecto está disponible aquí en el repositorio, salvo las subcarpetas Starter Content, la plantilla Third Person, la biblioteca de Quixel Megascans, y recursos gratuitos del Unreal Engine Marketplace: Animation Starter Pack, Modular SciFi Season 1 Starter Bundle y Modular Scifi Season 2 Starter Bundle.
-Estas subcarpetas deben incluirse en la carpeta Content. Si se tiene permiso, es posible [descargarlas aquí proximamamente]().
+Estas subcarpetas deben incluirse en la carpeta Content. Si se tiene permiso, es posible [descargarlas aquí]().
 
 ## Preproducción
 Para el proyecto final no había un enunciado que sirva como punto de partida. El diseño era uno libre y consistía en diseñar un juego que tenga algo nuevo que no hayamos visto en clase y usar cosas vistas en las practicas.
@@ -215,11 +215,11 @@ classDiagram
 ```
 
 ## Video
-El link del video con las pruebas es el siguiente: (proximamente)  .
+El link del video con las pruebas es el siguiente: (https://youtu.be/o5_CBEaBRCg)  .
 
 
 ## Tareas
-Las tareas que se han realizado para la práctica las encontramos en el siguiente link de github:(proximamente)
+Las tareas que se han realizado para la práctica las encontramos en el siguiente link de github:(https://github.com/DEV23-G01/DEV23-Bugoi/commits/main/)
 
 
 
