@@ -41,12 +41,12 @@ El diseño tiene estas secciones:
 
 
 ### Estetica
-El juego usa el contenido de Starter Content, la plantilla Third Person, y algunos recursos gratuitos del Unreal Engine Marketplace: Animation Starter Pack, Modular SciFi Season 1 Starter Bundle.
+El juego usa el contenido de Starter Content, la plantilla Third Person, y algunos recursos gratuitos del Unreal Engine Marketplace: Animation Starter Pack, Modular SciFi Season 1 Starter Bundle, Stylized Character Kit: Casual 01 .
 La estética será de ambientación futurista scifi y espias, cuidando la coherencia del escenario, el detalle y funcionamiento de los objetos interactivos.
 
 
 #### Graficos
-El juego usa el contenido de Starter Content, la plantilla Third Person, y dos recursos gratuitos del Unreal Engine Marketplace: Animation Starter Pack, Modular SciFi Season 1 Starter Bundle.
+El juego usa el contenido de Starter Content, la plantilla Third Person, y dos recursos gratuitos del Unreal Engine Marketplace: Animation Starter Pack, Modular SciFi Season 1 Starter Bundle, Stylized Character Kit: Casual 01 .
 
 
 #### Sonidos
@@ -204,7 +204,13 @@ classDiagram
       Actor <|-- Plataforma
       Plataforma <|-- PlataformaFantasma
       Actor <|-- Bala
+      Actor <|-- Bala Robot
+      Actor <|-- Proyectil Aturdidor
       Actor <|-- GafasVisiónTérmica
+      Actor <|-- PuertaBoss
+      Actor <|-- PuertaEntrada
+      Controller <|-- BP_EnemyRobot_Controller
+      Controller <|-- BP_FinalBoss_Controller
 
 ```
 
